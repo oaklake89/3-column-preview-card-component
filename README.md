@@ -13,4 +13,4 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Links
 
 - Solution URL: [GitHub](https://github.com/oaklake89/3-column-preview-card-component)
-- Live Site URL: [Netlify](https://www.oaklake89-3-column-preview-card-component.netlify.app/)
+- Live Site URL: [Netlify](https://oaklake89-3-column-preview-card.netlify.app/)
